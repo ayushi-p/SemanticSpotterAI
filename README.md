@@ -41,6 +41,3 @@ We welcome contributions! Feel free to open an issue or submit a pull request.
 ## 📞 Contact
 For inquiries or collaborations, reach out via [LinkedIn](https://www.linkedin.com/in/ayushi-pitchika).
 
----
-By positioning the project in terms of **business problems and impact**, this README not only showcases your technical skills but also makes a compelling case for its real-world value!
-
