@@ -1,7 +1,7 @@
 # SemanticSpotterAI
 
 ## 🚀 Overview
-SemanticSpotterAI is a **semantic search model** designed to improve information retrieval from large text databases. Using NLP and vector embeddings, it enables businesses to extract **contextually relevant** insights quickly and efficiently.
+SemanticSpotterAI is a **semantic search model** designed to improve information retrieval from large text databases using Retrieval Augmented Generation (RAG) techniques. Using NLP and vector embeddings, it enables businesses to extract **contextually relevant** insights quickly and efficiently.
 
 ## 🎯 Business Problem
 Organizations across industries struggle with retrieving relevant information from vast text repositories, leading to inefficiencies and lost opportunities.
